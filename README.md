@@ -7,4 +7,4 @@ algoritmo_FIFA.php : Código escrito en español. Mayores detalles sobre este c�
 ----------------------------------------
 Additional files
 
-insert-php : Plugin to use PHP in Wordpress. Upload this file to your Wordpress plugin folder and activate it. If used, replace the opening and closing PHP tags in algorithm_FIFA.php, i.e., <?php ?>, with the shortcode [insert_php] [/insert_php] 
+insert-php : Plugin to use PHP in Wordpress. Upload this file to your Wordpress plugin folder and activate it. If used, replace the opening and closing PHP tags in algorithm_FIFA.php with the shortcode [insert_php] [/insert_php] 
