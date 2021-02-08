@@ -10,6 +10,7 @@ Mayores detalles sobre estos códigos, visitar: http://www.nepy.pe/es/programaci
 Additional files / Archivos adicionales
 
 insert-php : 
+
 Plugin to use PHP in Wordpress. Upload this file to your Wordpress plugin folder and activate it. _WP file replaces the opening and closing PHP tags with the shortcode [insert_php] [/insert_php] 
 
 Plugin a usar en Wordpress. Carga el archivo en el folder de tus plugins de Wordpress y actívalo. El archivo _WP reemplaza las etiquetas de apertura y cierre de PHP por los códigos cortos [insert_php] [/insert_php]  
