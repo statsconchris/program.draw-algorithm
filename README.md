@@ -39,7 +39,7 @@ if( ! function_exists('will_bontrager_insert_php') )
 
 } # if( ! function_exists('will_bontrager_insert_php') )
 ```
-o descargar el archivo .zip insert-php. Extraerlo y guardarlo en wp-content/plugins para luego activarlo desde tu ventanda de administrador de plugins en Wordpress.
+o descargar el archivo .zip insert-php. Extraerlo y guardarlo en wp-content/plugins para luego activarlo desde la ventana de plugins en el administrador de Wordpress.
 
 2. Copiar el código dado en `algorithm_FIFA_WP.php` en una entrada de Wordpress. El archivo _WP reemplaza las etiquetas PHP de entrada y salida por los códigos cortos [insert_php] y [/insert_php], respectivamente. 
 
