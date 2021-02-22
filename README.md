@@ -37,7 +37,7 @@ if( ! function_exists('will_bontrager_insert_php') )
 
 } # if( ! function_exists('will_bontrager_insert_php') )
 ```
-or download the zip file insert-php. unzip it in wp-content/plugins and activate it from your Wordpress Dashboard
+or download the zip file insert-php. Unzip it in wp-content/plugins and activate it from your Wordpress Dashboard.
 
 2. Copy the code given in `algorithm_FIFA_WP.php` to your Wordpress post. _WP file replaces the opening and closing PHP tags with the shortcode [insert_php] [/insert_php] 
 
