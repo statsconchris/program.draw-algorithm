@@ -1,5 +1,5 @@
 ## draw.algorithm : Un código PHP para obtener el sorteo del Mundial de fútbol
-Para ver el funcionamiento de este código y su análisis respectivo, ir al artículo: [nepy.pe/en/draw.algorithm.](http://www.nepy.pe/es/programacion/algoritmo-en-php-para-simular-el-sorteo-del-mundial-de-futbol/) 
+Para ver el funcionamiento de este código y su análisis respectivo, ir al artículo: [nepy.pe/en/draw.algorithm.](http://www.nepy.pe/es/programacion/web/algoritmo-en-php-para-simular-el-sorteo-del-mundial-de-futbol/) 
 
 Hay dos formas de usar este código:
 1. Website
