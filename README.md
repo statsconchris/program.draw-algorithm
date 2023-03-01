@@ -1,17 +1,18 @@
-## draw.algorithm : A PHP code to obtain the draw of the FIFA World Cup
-To check the functionality of this code refer to the article: [nepy.pe/en/draw.algorithm.](http://www.nepy.pe/en/programming/algorithm-in-php-to-set-the-fifa-world-cup-draw/) 
+## PHP algorithm to simulate the FIFA World Cup draw
+We learn what an algorithm is by defining one that simulates the draw of the FIFA World Cup group stage. Unlike the FIFA draw that uses balls, in this case we use the computer to generate random numbers. The code was developed in PHP.
+<hr>
 
-There are two ways to use this code:
-1. Website
-2. Wordpress
+**Instructions**
 
-### Website
+Two solutions: `Website` and `Wordpress`.
 
-Download the file `algorithm_FIFA.php` and is ready to use.
+##### 1. Website
 
-### Wordpress
+Download the file `raffle-fifa.php` and is ready to use.
 
-1. Copy the following code to `functions.php` page in your Wordpress theme
+##### 2. Wordpress
+
+2.1. Copy the following code to `functions.php` page in your Wordpress theme
 ```markdown
 if( ! function_exists('will_bontrager_insert_php') )
 {
@@ -37,7 +38,23 @@ if( ! function_exists('will_bontrager_insert_php') )
 
 } # if( ! function_exists('will_bontrager_insert_php') )
 ```
-or download the zip file insert-php. Unzip it in wp-content/plugins and activate it from your Wordpress Dashboard.
+or download the zip file `insert-php`. Unzip it in `wp-content/plugins` and activate it from your Wordpress Dashboard.
 
-2. Copy the code given in `algorithm_FIFA_WP.php` to your Wordpress post. This file, in contrast to algorithm_FIFA.php, replaces the opening and closing PHP tags with the shortcode [insert_php] [/insert_php] 
+2.2 Copy the code given in `raffle-fifa-wp.php` to your Wordpress post. This file, in contrast to `raffle-fifa.php`, replaces the opening and closing PHP tags with the shortcode `[insert_php]` `[/insert_php]` 
+
+
+**Information**
+
+- To check how the code works, refer to the article: 
+  
+  [PHP algorithm to simulate the FIFA World Cup draw](https://nepy.pe/article.php?pid=625a92df2393c&lan=en). 
+
+
+
+
+
+
+
+
+
 
