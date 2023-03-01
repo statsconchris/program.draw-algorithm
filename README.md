@@ -8,7 +8,7 @@ Two solutions: `Website` and `Wordpress`.
 
 ##### 1. Website
 
-Download the file `raffle-fifa.php` and is ready to use.
+Download the file `draw-fifa.php` and is ready to use.
 
 ##### 2. Wordpress
 
@@ -40,7 +40,7 @@ if( ! function_exists('will_bontrager_insert_php') )
 ```
 or download the zip file `insert-php`. Unzip it in `wp-content/plugins` and activate it from your Wordpress Dashboard.
 
-2.2 Copy the code given in `raffle-fifa-wp.php` to your Wordpress post. This file, in contrast to `raffle-fifa.php`, replaces the opening and closing PHP tags with the shortcode `[insert_php]` `[/insert_php]` 
+2.2 Copy the code given in `draw-fifa-wp.php` to your Wordpress post. This file, in contrast to `draw-fifa.php`, replaces the opening and closing PHP tags with the shortcode `[insert_php]` `[/insert_php]` 
 
 
 **Information**
